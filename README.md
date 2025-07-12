@@ -53,7 +53,7 @@ I'm Abner, a Computer Science student at UoPeople and working to become a full-s
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/mfaHJDn.png" alt="Image">
+  <img src="https://i.imgur.com/EU7nUNv.png" alt="Image">
 </div>
 
 
