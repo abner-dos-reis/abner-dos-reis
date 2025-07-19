@@ -1,13 +1,6 @@
 <h1 align="center">👋 Hello! I’m Abner dos Reis</h1>
 
-<div align="center">
-  <a href="https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI" target="_blank">
-    <img src="https://i.imgur.com/4L8WY63.gif" alt="Peaches - Justin Bieber">
-  </a>
-</div>
 
-
----
 
 ## ☀️ About Me
 
