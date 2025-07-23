@@ -53,10 +53,4 @@ I'm Abner, a Computer Science student at UoPeople and working to become a full-s
 - 📧 abnerdosreis.contact@gmail.com
 - 📱 WhatsApp: +55 (11) 95695-1905
 
----
-
-<div align="center">
-  <img src="https://i.imgur.com/EU7nUNv.png" alt="Image">
-</div>
-
 
