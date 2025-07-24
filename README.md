@@ -4,13 +4,13 @@
 
 ## ☀️ About Me
 
-I'm Abner, a Computer Science student at UoPeople and working to become a full-stack developer.
+I'm Abner, a Computer Science student and working to become a full-stack developer.
 
 - 🚀 Passionate about tech and innovation.
-- 🎓 Pursuing a BSc in Computer Science (UoPeople)
+- 🎓 Pursuing a BSc in Computer Science
 - 📚 Taking Meta Front-End/Back-End (Coursera)
 - 🎓 Taking CS50 (Harvard)
-- 🤝 UoPeople Ambassador, sharing accessible education with the world
+- 🤝 University Brand Ambassador, sharing accessible education with the world
 
 ---
 
