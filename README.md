@@ -8,7 +8,7 @@ I'm Abner, a Computer Science student and working to become a full-stack develop
 
 - 🚀 Passionate about tech and innovation.
 - 🎓 Pursuing a BSc in Computer Science
-- 📚 Taking Meta Front-End/Back-End (Coursera)
+- 📚 Taking Meta Front-End/Back-End 
 - 🎓 Taking CS50 (Harvard)
 - 🤝 University Brand Ambassador, sharing accessible education with the world
 
